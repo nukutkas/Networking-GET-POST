@@ -57,14 +57,22 @@
 			isa = PBXGroup;
 			children = (
 				A83C30202108401A00592AE4 /* AppDelegate.swift */,
-				A83C30222108401A00592AE4 /* ViewController.swift */,
-				A806CF93210B4EA300574064 /* ImageViewController.swift */,
+				E596EFDC2641D72E0022C7A2 /* ViewControllers */,
 				A83C30242108401A00592AE4 /* Main.storyboard */,
 				A83C30272108401B00592AE4 /* Assets.xcassets */,
 				A83C30292108401B00592AE4 /* LaunchScreen.storyboard */,
 				A83C302C2108401B00592AE4 /* Info.plist */,
 			);
 			path = Networking;
+			sourceTree = "<group>";
+		};
+		E596EFDC2641D72E0022C7A2 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				A83C30222108401A00592AE4 /* ViewController.swift */,
+				A806CF93210B4EA300574064 /* ImageViewController.swift */,
+			);
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
